@@ -34,4 +34,12 @@ Now you should be "inside" the mafft environment (you should see mafft in the pa
 conda install -c bioconda mafft
 ```
 
+A bunch of stuff should be printed at you and you will have to say yes to installing things, but then the program should be installed. Unless you want to immediately use what you installed, you should next deactivate the conda environment (if you do not do this you run the risk of accidentally installing other programs that may not play nicely with your original progam).
+
+```
+# deactivate
+conda deactivate
+```
+
+### Singularity
 
