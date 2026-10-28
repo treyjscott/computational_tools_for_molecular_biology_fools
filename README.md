@@ -1,6 +1,6 @@
 # COMPUTATIONAL TOOLS FOR MOLECULAR BIOLOGY FOOLS
 
-![](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/tree/static/img/Nick_image_small.png)
+![](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/blob/main/static/img/Nick_image_small.png)
 
 # What are you trying to do?
 1. [Start a project](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/tree/main/start_a_project)
