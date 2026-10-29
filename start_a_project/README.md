@@ -6,7 +6,7 @@ The advice in this section does not need to be taken all that seriously. There a
 
 The way I organize projects, is create a single project directory (Fig 1). Within this directory, I then create subdirectories for important data, code, or specific analyses.
 
-![Fig 1](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/blob/main/static/img//directory_layout.png)
+![Fig 1](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/blob/main/static/img/directory_layout.png)
 
 I keep all code in a single directory (scripts), but this can also get messy. An alternative is to keep code for specific analyses within their respective directories.
 
