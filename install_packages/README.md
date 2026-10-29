@@ -9,7 +9,7 @@ You will mostly use conda and singularity.
 Before starting with conda you will need to load python (after logging into the cluster).
 
 ```
-module load python/
+module load python
 ```
 
 Once this is done, you should be able to type "cond" and then hit tab. If it autocompletes to "conda," then you successfully have conda (this autocopmlete trick is useful for knowing which programs are available and for finding out if certain files exist).
