@@ -9,3 +9,4 @@
 
 # Things to consider
 - [Can I use comparative methods?](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/tree/main/can_i_do_comp)
+- [Have you checked your alignments?](https://github.com/treyjscott/computational_tools_for_molecular_biology_fools/tree/main/alignments)
